@@ -1,4 +1,4 @@
-use students;
+
 select * from s_id;
 # Tracks have several courses in it  
 select track, count(c_id)
